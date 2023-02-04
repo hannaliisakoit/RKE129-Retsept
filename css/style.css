@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(184, 239, 181);
+}
+
+.Title {
+    color: rgb(7, 88, 24);
+    font-family:'Dancing Script', cursive;
+    font-size: 4rem;
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+
+}
+
+.ingredients {
+   
+    width: auto 0;
+    margin: 5px auto;
+}
+
+.table {
+    margin: 0 auto;
+    width: 300px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.instructions {
+
+    width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.instructions ol {
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.img {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
